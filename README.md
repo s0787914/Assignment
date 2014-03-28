@@ -1,4 +1,5 @@
 Assignment
 ==========
 
-Connect4
+Connect4 Human vs Computer
+simple AI - minimax with alpha beta pruning
